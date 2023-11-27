@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 from semversion import version
 
 setup(
-    name=os.environ.get('APP_NAME'),
+    name=os.environ.get("APP_NAME"),
     version=version(),
     packages=find_packages(),
     entry_points={
@@ -11,8 +11,7 @@ setup(
             "semversion=semversion.__main__:main",
         ],
     },
-    install_requires=[
-    ],
+    install_requires=[],
     author="Gabriel Delgado",
     author_email="gadc1996@gmail.com",
     description="Manage project semantic version.",
