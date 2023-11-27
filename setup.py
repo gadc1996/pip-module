@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 from semversion import version
 
 setup(
-    name='pip-module-template',
+    name="pip-module-template",
     version=version(),
     packages=find_packages(),
     entry_points={
