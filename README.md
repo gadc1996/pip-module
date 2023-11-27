@@ -3,7 +3,7 @@
 [![Actions Status](https://github.com/gadc1996/python-workspace/workflows/Lint/badge.svg)](https://github.com/gadc1996/python-workspace/actions)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Python package index(pypi) ready template for module developemnt
+Python package index(pypi) ready template for module development
 
 ## Setting Up
 ### Prerequisites
